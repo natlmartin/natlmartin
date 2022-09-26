@@ -16,6 +16,9 @@ Here are some ideas to get you started: -->
 
 ##Technical Skills
 
+![image](https://user-images.githubusercontent.com/106486643/192357274-3dd32752-4f70-4469-8ea6-e2af1eaa35c1.png)
+
+
 
 
 
