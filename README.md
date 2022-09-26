@@ -16,7 +16,8 @@ Here are some ideas to get you started: -->
 
 ##Technical Skills
 
-![image](https://user-images.githubusercontent.com/106486643/192357274-3dd32752-4f70-4469-8ea6-e2af1eaa35c1.png)
+[<img align="left" alt="HTML5" width="30px" src="[(https://user-images.githubusercontent.com/106486643/192357274-3dd32752-4f70-4469-8ea6-e2af1eaa35c1.png)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)" />]
+
 
 
 
