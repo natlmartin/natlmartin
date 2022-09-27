@@ -14,12 +14,5 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love reading, am a Gryffindor, enjoy watching musicals & horror films and like to play bass in my band in my spare time. 
 
-##Technical Skills
-
-[<img align="left" alt="HTML5" width="30px" src="[(https://user-images.githubusercontent.com/106486643/192357274-3dd32752-4f70-4469-8ea6-e2af1eaa35c1.png)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)" />]
-
-
-
-
 
 
