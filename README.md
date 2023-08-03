@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently on the CodeFirstGirls Degree - Summer23 cohort with a specialisation in Software Engineering. 
-- 🌱 I’m currently learning Python and C++. 
+- 🔭 I’m currently on the CodeFirstGirls Degree - Summer23 cohort with a specialisation in Software Engineering. I have also been working through SheCodes and have experience with Front End development with vanilla JavaScript. 
+- 🌱 I’m currently learning Python and C++ (thank goodness for Codecademy!). 
 - 👯 I’m looking to collaborate on Python apps. 
 - 🤔 I’m looking for help with mentorship. 
 - 💬 Ask me about Responsive Web Design and Flexbox! 
